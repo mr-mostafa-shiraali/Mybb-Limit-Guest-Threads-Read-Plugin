@@ -21,4 +21,4 @@ Two simple condition :
 - Can Not Share Plugin with anyone.
 
 
-   ## More details : [Limit Guest Threads Read Plugin](https://community.mybb.com/thread-237726.html)
+## More details : [Limit Guest Threads Read Plugin](https://community.mybb.com/thread-237726.html)
